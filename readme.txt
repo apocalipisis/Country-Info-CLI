@@ -1,4 +1,4 @@
-Requisição:
+Requisição (CHAT GPT):
 Olá, programador! Recentemente comecei a estudar diferentes culturas ao redor do mundo, e estou tendo dificuldades para organizar todas as informações. Você poderia criar um programa simples para mim?
 
 Gostaria que o programa pudesse fazer o seguinte:
